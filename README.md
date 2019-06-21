@@ -1,6 +1,6 @@
 
 
-![Alt Text](/media/airflowlogo.png)
+![Alt Text](/airflowlogo.png)
 
 
 # AirFlow Demos
