@@ -1,4 +1,4 @@
-<a href="url"><img src="/airflowlogo.png" align="center" height="175" width="200" ></a>
+<a href="url"><img src="/airflowlogo.png" align="right" height="175" width="200" ></a>
 # AirFlow Demos
 
 ## Description
